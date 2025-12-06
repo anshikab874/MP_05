@@ -29,7 +29,6 @@ IG05/
 
 ### 1. Improved Data Reliability — Before & After
 
-![Before After](Result/Comparison before and after use of FluxGen technology.png)
 
 ## Video Demonstration
 
@@ -53,3 +52,4 @@ You can find it here:
 
 
  
+
